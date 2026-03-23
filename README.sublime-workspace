@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control add repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"Raingl",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/spaceship/.zshrc",
+		"/Users/spaceship/Desktop/hola.ufo/glyphs/r.glif",
+		"/Volumes/QiuChenAppStore/安装说明.txt",
+		"/Users/spaceship/Documents/FontTools/otf-ttf-files/SeismicLatinVF-Thin.ttx",
+		"/Applications/Library/Application Support/Adobe/After Effects/26.0/AMT/application.xml",
+		"/Users/spaceship/Documents/Adobe/Adobe Media Encoder/26.0/AudioPluginManagerSettings_ARM.xml",
+		"/Users/spaceship/Documents/Adobe/Adobe Media Encoder/26.0/addcopiedfrom25/AMEPrefs.xml",
+		"/Users/spaceship/Documents/Adobe/Adobe Media Encoder/26.0/addcopiedfrom25/batch.xml",
+		"/Users/spaceship/Documents/Adobe/Adobe Media Encoder/26.0/addcopiedfrom25/PresetCache.xml",
+		"/Users/spaceship/Documents/Adobe/Adobe Media Encoder/26.0/addcopiedfrom25/PresetUserCache.xml",
+		"/Users/spaceship/Desktop/blender-addons.txt",
+		"/Users/spaceship/Downloads/Blender-addons-main/auto_rig_pro-master/lib/version.py",
+		"/Users/spaceship/Downloads/AdobeDownloader/QiuChenAdobe Premiere 26.0.1/PPRO/application.json",
+		"/Users/spaceship/Library/Mobile Documents/com~apple~CloudDocs/✦ Design-UCM/324_Animación 2D, Lara Marín Cerrato/01_Motion-Graphics_13-marzo-2359h/Borderline/login",
+		"/Users/spaceship/Downloads/AdobeDownloader/QiuChenAdobe Audition 26.0/AUDT/application.json",
+		"/Users/spaceship/Library/Mobile Documents/com~apple~CloudDocs/✦ Design-UCM/325_Técnicas de Impresión Industrial, Juanita Bagés Villaneda/2026-02-20_Duotono/entrega/ej2-duotono-MArgenta-info.txt",
+		"/Users/spaceship/Library/Application Support/Ulysses/Style Editing/a5c8622517314a369dd3acdf987b8511/Universitaire.ulss",
+		"/Users/spaceship/Desktop/info.txt",
+		"/Users/spaceship/Desktop/docker-compose.yaml",
+		"/Users/spaceship/Library/Mobile Documents/iCloud~md~obsidian/Documents/the-plot/.obsidian/snippets/live-preview-formatting.css",
+		"/Users/spaceship/LocalVaults/Obsidian/Notebook/.obsidian/snippets/custom-callouts.css",
+		"/Users/spaceship/LocalVaults/Obsidian/Notebook/.obsidian/snippets/live-preview-formatting.css",
+		"/Users/spaceship/Desktop/go-wares.twee",
+		"/Users/spaceship/Desktop/store-web.html",
+		"/Users/spaceship/Desktop/FAB_Floating_Action_Button.html",
+		"/Users/spaceship/Desktop/carrd-mara-argenta-20260109/assets/main.js",
+		"/Users/spaceship/Desktop/carrd-mara-argenta-20260109/assets/noscript.css",
+		"/Users/spaceship/Desktop/carrd-mara-argenta-20260109/assets/main.css",
+		"/Users/spaceship/Desktop/carrd-mara-argenta-20260109/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/Robofont.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
