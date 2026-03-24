@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: false,
       typography: {
         header: "Coral Pixels", // Familjen Grotesk, Funnel Sans
-        body: "Rethink Sans", // Special Gothic, Atkinson Hyperlegible Next, Rethink Sans
+        body: "Bricolage Grotesque", // Special Gothic, Atkinson Hyperlegible Next, Rethink Sans, Schibsted Grotesk
         code: "Spline Sans Mono",
       },
       colors: {
