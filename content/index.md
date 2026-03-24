@@ -1,7 +1,7 @@
 ---
-title: Work in progress
+title: Homepage
 ---
 
-I'm still tidying things up around here.
+This is still a work in progress.
 
-See you soon!
+And the wrong #Color.

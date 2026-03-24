@@ -2,8 +2,8 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "Untitled",
-    description: "No description provided",
+    title: "Update",
+    description: "A blog entry",
   },
   components: {
     callout: {
@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      noBacklinksFound: "No backlinks yet",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -33,28 +33,28 @@ export default {
       title: "Reader mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Archive",
     },
     footer: {
       createdWith: "Created with",
     },
     graph: {
-      title: "Graph View",
+      title: "",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Recent activity",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
+      transcludeOf: ({ targetSlug }) => `Excerpt from ${targetSlug}`,
       linkToOriginal: "Link to original",
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Search titles, themes, words...",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "In this document",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
@@ -67,8 +67,8 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Return to Homepage",
+      notFound: "Broken link or missing file. Sorry.",
+      home: "Go back",
     },
     folderContent: {
       folder: "Folder",
@@ -76,12 +76,12 @@ export default {
         count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
     tagContent: {
-      tag: "Tag",
+      tag: "",
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
+        count === 1 ? "Found 1 file." : `Found ${count} files.`,
       showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`,
+      totalTags: ({ count }) => `Found ${count} tags.`,
     },
   },
 } as const satisfies Translation
