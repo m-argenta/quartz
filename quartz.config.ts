@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: false,
       typography: {
-        header: "DotGothic16", // Familjen Grotesk, Funnel Sans
-        body: "Funnel Sans", // Special Gothic, Atkinson Hyperlegible Next, Rethink Sans
+        header: "Coral Pixels", // Familjen Grotesk, Funnel Sans
+        body: "Rethink Sans", // Special Gothic, Atkinson Hyperlegible Next, Rethink Sans
         code: "Spline Sans Mono",
       },
       colors: {
