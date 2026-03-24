@@ -35,8 +35,13 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   left: [],
-  right: [],
+  right: [
+  ],
   afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes(),
+      condition: (page) => page.fileData.slug == "index",
+    }),
     Component.ConditionalRender({
       component: Component.Graph(),
       condition: (page) => page.fileData.slug == "index",

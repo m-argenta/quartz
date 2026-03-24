@@ -42,7 +42,7 @@ export default {
       title: "",
     },
     recentNotes: {
-      title: "Recent activity",
+      title: "",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
